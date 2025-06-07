@@ -1,7 +1,7 @@
-<h3>Note</h3>
-99% of my github repo's are private, I post my active projects on <a href="https://wortelarchief.netlify.app">het wortel archief</a>
+### Note
+99% of my github repo's are private, I post my active projects on [het wortel archief](https://wortelarchief.netlify.app)
 
-<h3>Langs I know and use</h3>
+### Langs I know and use
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AppleScript](https://img.shields.io/badge/AppleScript-000000?style=for-the-badge&logo=applescript&logoColor=white)
