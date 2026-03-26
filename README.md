@@ -1,5 +1,5 @@
 ### Note
-99% of my github repo's are private, I post my active projects on [het wortel archief](https://wortelarchief.netlify.app)
+99.99% of my github repo's are private, I post my active projects on [my portofolio site](https://102192.stu.sd-lab.nl/porto/) though I rarely opensource
 
 ### Langs I know and use
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
